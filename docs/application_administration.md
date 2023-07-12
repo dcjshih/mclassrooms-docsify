@@ -186,7 +186,3 @@ For the Room Layout, please upload files with the following specifications:
 3. Add your text. There is a Rich Text Editor to allow for some styling (Bold, Italics, hyperlinks, etc.). 
 4. If making a Note, click on Create Note. (Note: This is also the same section to create [Room Alerts](https://docs.google.com/document/d/1k5KG3iw4yx5GRdEtcq44KMqzNroC4UPealhPkr817Cs/edit#heading=h.k5rj7mpzwz5c)).
 
-
-# Additional Assistance
-
-If you need additional technical assistance, then you can contact [LSATechnologyServices@umich.edu](mailto:LSATechnologyServices@umich.edu) for support.

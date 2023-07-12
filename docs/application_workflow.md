@@ -21,4 +21,4 @@ If a room is not displayed in MClassrooms but should, check to make sure that th
 
 If a new building or new room detail needs to display in MClassrooms, then submit a ticket to the development team by clicking on Report an Issue at the bottom of the MClassrooms page.
 
-![Report an Issue](assets/images/image9.png)
+![Report an Issue](../assets/image9.png)
